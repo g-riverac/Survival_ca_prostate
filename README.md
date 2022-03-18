@@ -1,10 +1,18 @@
 # Survival rate of prostate cancer in a Sudameric Ocncologyc Instutute
 
-Prostate cancer is the most common malignant tumor in men and the vast majority of cases occur after the age of 65 years and rarely in those younger than 45 years.
+## Author
 
-The survival rate is the percentage of people who survive after being diagnosed with a disease within a certain period of time (5 to 10 years).  In general, prostate cancer survival rates are very good when the disease is diagnosed in early stages, reaching 100%, 98% and 93% at 5, 10 and 15 years, respectively. This rate drops to 30% at 5 years if the diagnosis is made in advanced stages. Therefore, the survival rate is directly related to the clinical stage of the disease.
+* Gabriel Rivera
+
+## Description
+
+This report presents an example of using the python pandas library to load, clean and explore a real database in any application field. A small graphical analysis of the data is also performed. 
+
+## Data base
 
 The data for this small review were obtained from the medical records of 1639 patients treated in the period 2000-2010 in an Oncological Institution in South America specialized in cancer treatment. Therefore, patient data are confidential and have been anonymized. 
 
+## Aim
 
-The aim of this small review is to know what is the survival rate in this oncological institute for patients diagnosed in the period indicated above.
+The final objective of this small review is to know what is the survival rate a oncological institute of the patients diagnosed with prostate cancer in the lapse of 10 years.
+
