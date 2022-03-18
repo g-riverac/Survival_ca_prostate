@@ -2700,6 +2700,7 @@ df_stages_recurr
     - The probability of survival of a patient more than 20 years after diagnosis is 0.49
 
 * About the survival grouped by stage of the patients in the sample:
+    
     - The 5-year survival probability of a patient presenting stage I is 0.89, while a patient presenting stage IV is 0.44.
     - The 10-year survival probability of a patient presenting with stage I is 0.81, while a patient presenting with stage IV is 0.27.
     - The 15-year survival probability for a patient presenting with stage I is 0.77, while a patient presenting with stage IV is 0.23.
@@ -2726,5 +2727,6 @@ df_stages_recurr
     - The probability that the disease does not recur in the first 15 years is 0.26
     - The probability that the disease will not recur within the first 20 years is 0.03
     - The probability that the disease will not recur in the first 20 years is 0.01.
+
 
 * The probability of non-recurrence in patients with stage IV is much lower than in those with stages I, II and III, but the probability of these stages decreasing together after 10 years, with stages I and II being very similar.
