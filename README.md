@@ -1,9 +1,5 @@
 # Survival rate of prostate cancer in a Sudameric Ocncologyc Instutute
 
-## Author
-
-* Gabriel Rivera
-
 ## Description
 
 This report presents an example of using the python pandas library to load, clean and explore a real database in any application field. A small graphical analysis of the data is also performed. 
@@ -16,3 +12,6 @@ The data for this small review were obtained from the medical records of 1639 pa
 
 The final objective of this small review is to know what is the survival rate a oncological institute of the patients diagnosed with prostate cancer in the lapse of 10 years.
 
+## Author
+
+* Gabriel Rivera
