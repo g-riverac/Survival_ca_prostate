@@ -2679,6 +2679,7 @@ df_stages_recurr
     - The probability of survival of a patient between 15 and 20 years after diagnosis is 0.54
     - The probability of survival of a patient more than 20 years after diagnosis is 0.49
 * About the survival grouped by stage of the patients in the sample:
+    
     - The 5-year survival probability of a patient presenting stage I is 0.89, while a patient presenting stage IV is 0.44.
     - The 10-year survival probability of a patient presenting with stage I is 0.81, while a patient presenting with stage IV is 0.27.
     - The 15-year survival probability for a patient presenting with stage I is 0.77, while a patient presenting with stage IV is 0.23.

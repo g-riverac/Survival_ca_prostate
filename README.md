@@ -10,7 +10,7 @@ The data for this small review were obtained from the medical records of 1639 pa
 
 ## Aim
 
-The final objective of this small review is to know what is the survival rate a oncological institute of the patients diagnosed with prostate cancer in the lapse of 10 years.
+The final aim of this small review is to know what is the survival rate a oncological institute of the patients diagnosed with prostate cancer in the lapse of 10 years.
 
 ## Author
 
