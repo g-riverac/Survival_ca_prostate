@@ -1,15 +1,3 @@
-# Survival rate of prostate cancer in a Sudameric Ocncologyc Instutute
-
-Prostate cancer is the most common malignant tumor in men and the vast majority of cases occur after the age of 65 years and rarely in those younger than 45 years.
-
-The survival rate is the percentage of people who survive after being diagnosed with a disease within a certain period of time (5 to 10 years).  In general, prostate cancer survival rates are very good when the disease is diagnosed in early stages, reaching 100%, 98% and 93% at 5, 10 and 15 years, respectively. This rate drops to 30% at 5 years if the diagnosis is made in advanced stages. Therefore, the survival rate is directly related to the clinical stage of the disease.
-
-The data for this small review were obtained from the medical records of 1639 patients treated in the period 2000-2010 in an Oncological Institution in South America specialized in cancer treatment. Therefore, patient data are confidential and have been anonymized. 
-
-
-The aim of this small review is to know what is the survival rate in this oncological institute for patients diagnosed in the period indicated above.
-
-
 # Exploratory Data Analysis
 
 
@@ -2198,8 +2186,8 @@ df_R
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>Con Radioterapia</th>
-      <th>Sin Radioterapia</th>
+      <th>With radiotherapy</th>
+      <th>Without radiotherapy</th>
     </tr>
     <tr>
       <th>timeline</th>
@@ -2673,79 +2661,41 @@ df_stages_recurr
 ## Conclusions
 
 * The average age at diagnosis of prostate cancer in the sample was around 70 years.
-
 * Patients with stage IV disease have a median age of 72 years, while patients with stages I, II and III have a median age greater than 65 and less than 70 years.
-
 * The mean age at death of the patients in the sample who have died is around 5 years, which means that the majority, at least on average, live 5 years.
-
 * The average time of death of patients is around 5 years.
-
 * The median time of patients alive in 2020 is around 14-15 years.
-
 * More than 50% of the patients in the sample have been diagnosed with stage IV.
-
 * De la muestra de pacientes agrupados por estadío clínico, se pude observar:
     - __Estadio I__: 78.57% de los pacientes esta vivo hasta el momento de la generación de la base de datos en 2020
     - __Estadio II__: 72.76% de los pacientes esta vivo hasta el momento de la generación  de la base de datos en 2020
     - __Estadio III__: 67.48% de los pacientes esta vivo hasta el momento de la generación de la base de datos en 2020
     - __Estadio IV__: 22.93% de los pacientes esta vivo hasta el momento de la generación de la base de datos en 2020
-
 * Patients who have received radiotherapy, at least on average, have a longer average lifespan than those who have not received radiotherapy.
-
 * About the overall survival of the patients in the sample:
     - The probability of survival of a patient in the first 5 years after being diagnosed is 0.97.
     - The probability of survival of a patient between 5 and 10 years after diagnosis is 0.74
     - The probability of survival of a patient between 10 and 15 years after diagnosis is 0.6
     - The probability of survival of a patient between 15 and 20 years after diagnosis is 0.54
     - The probability of survival of a patient more than 20 years after diagnosis is 0.49
-
 * About the survival grouped by stage of the patients in the sample:
     - The 5-year survival probability of a patient presenting stage I is 0.89, while a patient presenting stage IV is 0.44.
     - The 10-year survival probability of a patient presenting with stage I is 0.81, while a patient presenting with stage IV is 0.27.
     - The 15-year survival probability for a patient presenting with stage I is 0.77, while a patient presenting with stage IV is 0.23.
     - The 20-year survival probability for a patient presenting with stage I is 0.77, while a patient presenting with stage IV is 0.19.
-
 * The probability of survival of a patient with stage I, II and II is much higher than that of a patient with stage IV.
-
 * As the patient is diagnosed at an advanced stage of the disease, the probability of survival decreases dramatically.
-
-
 * On the survival of the sample grouped by those patients who received radiotherapy:
     - The 5-year survival probability of a patient who received radiotherapy is 0.88, while that of a patient who did not receive is 0.58.
     - The 10-year survival probability of a patient who received radiotherapy is 0.77, while that of a patient who did not receive is 0.43.
     - The 15-year survival probability of a patient who received radiotherapy is 0.70, while that of a patient who did not receive is 0.38.
     - The 20-year survival probability of a patient who received radiotherapy is 0.70, while that of a patient who did not receive is 0.34.
-
 * There is a large difference in the survival probability of patients who received radiotherapy, which varies greatly depending on those who did not receive this treatment.
-
 * About the recurrence of patients:
-<<<<<<< HEAD
     - 78.08% of patients present a recurrence of cancer during the study time.
     - The probability that the disease does not recur in the first 5 years is 0.95
     - The probability that the disease will not recur in the first 10 years is 0.62%.
     - The probability that the disease does not recur in the first 15 years is 0.26
     - The probability that the disease will not recur within the first 20 years is 0.03
     - The probability that the disease will not recur in the first 20 years is 0.01.
-
 * The probability of non-recurrence in patients with stage IV is much lower than in those with stages I, II and III, but the probability of these stages decreasing together after 10 years, with stages I and II being very similar.
-
- <li>Third item
-    <br>
-    <ul>
-      <li>Indented item</li>
-      <li>Indented item</li>
-    </ul>
-  </li>
-  <br>
-  <li>Fourth item</li>
-</ul>
-=======
-    ** 78.08% of patients present a recurrence of cancer during the study time.
-    ** The probability that the disease does not recur in the first 5 years is 0.95
-    ** The probability that the disease will not recur in the first 10 years is 0.62%.
-    ** The probability that the disease does not recur in the first 15 years is 0.26
-    ** The probability that the disease will not recur within the first 20 years is 0.03
-    ** The probability that the disease will not recur in the first 20 years is 0.01.
-
-* The probability of non-recurrence in patients with stage IV is much lower than in those with stages I, II and III, but the probability of these stages decreasing together after 10 years, with stages I and II being very similar.
->>>>>>> main
