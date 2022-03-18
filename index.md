@@ -2719,7 +2719,7 @@ df_stages_recurr
 * There is a large difference in the survival probability of patients who received radiotherapy, which varies greatly depending on those who did not receive this treatment.
 
 * About the recurrence of patients:
-<<<<<<< HEAD
+
     - 78.08% of patients present a recurrence of cancer during the study time.
     - The probability that the disease does not recur in the first 5 years is 0.95
     - The probability that the disease will not recur in the first 10 years is 0.62%.
@@ -2728,24 +2728,3 @@ df_stages_recurr
     - The probability that the disease will not recur in the first 20 years is 0.01.
 
 * The probability of non-recurrence in patients with stage IV is much lower than in those with stages I, II and III, but the probability of these stages decreasing together after 10 years, with stages I and II being very similar.
-
- <li>Third item
-    <br>
-    <ul>
-      <li>Indented item</li>
-      <li>Indented item</li>
-    </ul>
-  </li>
-  <br>
-  <li>Fourth item</li>
-</ul>
-=======
-    ** 78.08% of patients present a recurrence of cancer during the study time.
-    ** The probability that the disease does not recur in the first 5 years is 0.95
-    ** The probability that the disease will not recur in the first 10 years is 0.62%.
-    ** The probability that the disease does not recur in the first 15 years is 0.26
-    ** The probability that the disease will not recur within the first 20 years is 0.03
-    ** The probability that the disease will not recur in the first 20 years is 0.01.
-
-* The probability of non-recurrence in patients with stage IV is much lower than in those with stages I, II and III, but the probability of these stages decreasing together after 10 years, with stages I and II being very similar.
->>>>>>> main
