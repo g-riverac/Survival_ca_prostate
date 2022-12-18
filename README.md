@@ -12,6 +12,9 @@ The data for this small review were obtained from the medical records of 1639 pa
 
 The final aim of this small review is to know what is the survival rate a oncological institute of the patients diagnosed with prostate cancer in the lapse of 10 years.
 
+## Web page
+https://g-riverac.github.io/Survival_ca_prostate/
+
 ## Author
 
 * Gabriel Rivera
